@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.aidiangames.merge.gp"
+#define GamePackageName "com.YEMA.FinalSquad"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
