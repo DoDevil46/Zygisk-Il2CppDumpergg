@@ -7,4 +7,5 @@
 
 #define GamePackageName "com.wildlifestudios.afk.energy.soccer.game.supernova.football"
 
+
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
