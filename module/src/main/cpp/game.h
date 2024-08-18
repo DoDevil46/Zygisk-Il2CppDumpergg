@@ -5,6 +5,6 @@
 #ifndef ZYGISK_IL2CPPDUMPER_GAME_H
 #define ZYGISK_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "games.tinycloud.tinyshop"
+#define GamePackageName "com.wildlifestudios.afk.energy.soccer.game.supernova.football"
 
 #endif //ZYGISK_IL2CPPDUMPER_GAME_H
